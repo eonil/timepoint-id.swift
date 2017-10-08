@@ -1,5 +1,9 @@
 EonilTimePoint
 ============
+2017/10/08
+Hoon H.
+
+[![Build Status](https://travis-ci.org/eonil/timepoint.swift.svg?branch=master)](https://travis-ci.org/eonil/timepoint.swift)
 
 Globally ordered, infinite-spaced unique ID.
 
