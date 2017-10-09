@@ -1,3 +1,5 @@
+**IMPLEMENTATION IS NOT ACTUALLY INFINITE. DON'T USE THIS.**
+
 EonilTimePoint
 ============
 2017/10/08
